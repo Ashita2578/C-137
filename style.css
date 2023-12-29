@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+#heading, #number_of_objects,#status    {
+    font-size: 20px;
+}
+canvas  {
+     border: 5px solid rgb(0, 242, 255);
+     border-radius: 10px;
+     margin-top:20px;
+     box-shadow: 5px 5px 5px deeppink;
+}
+#copy-right_footer{
+    position: fixed;
+    bottom: 5;
+    background-color: crimson;
+    color: chartreuse;
+    font-weight: bold;
+    width: 100px;
+    text-align: center;
+    line-height: 2;
+}
